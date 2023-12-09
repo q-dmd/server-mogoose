@@ -1,2 +1,2 @@
 # server-mongoose
-nodejs基于mogoose和express的后台服务
+nodejs基于mongoose和express的后台服务
