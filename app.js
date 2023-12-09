@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(POST, () => {
-    console.log(`Example app listening on post ${POST}`)
+    console.log(`http://localhost:${POST}`)
 })
